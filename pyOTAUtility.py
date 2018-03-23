@@ -88,6 +88,6 @@ def update_field_length(field_name, length):
 
 if __name__ == "__main__":
     login()
-    list_item_update("TestRoot", "ItemChanged", "Item1")
+    # list_item_update("TestRoot", "ItemChanged", "Item1")
     logout()
 
